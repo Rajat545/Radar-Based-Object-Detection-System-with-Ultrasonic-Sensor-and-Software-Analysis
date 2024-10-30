@@ -43,5 +43,25 @@ Developed a radar-based object detection system using an ultrasonic sensor (HC-S
 
 ## Code Implementation
 
-### Arduino Code for HC-SR04
+### Upload Arduino Code for HC-SR04
+### Upload ESP32 Code to Receive Data
+# Usage Instructions
+
+## Upload Code
+- **Arduino:** Upload the Arduino code to the Arduino board.
+- **ESP32:** Upload the ESP32 code to the ESP32 board.
+
+## Power On
+Connect both devices to power and open the Serial Monitor to verify data transmission.
+
+## Open GUI
+Run the GUI software on your laptop or PC to visualize object detection data in real-time.
+
+## View Results
+Observe object positions on the radar-like GUI, with distances updated in real-time.
+
+## Future Improvements
+- **Machine Learning:** Implement machine learning for enhanced accuracy in object detection.
+- **Extended Range:** Increase the detection range or use a more precise sensor.
+- **Wireless Communication:** Add wireless communication for extended-range data transmission.
 
