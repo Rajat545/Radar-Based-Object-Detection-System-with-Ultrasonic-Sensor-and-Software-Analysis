@@ -1,6 +1,6 @@
 // Define the Trigger and Echo pins for the ultrasonic sensor
-const int trigPin = 10;
-const int echoPin = 11;
+const int trigPin = 9;
+const int echoPin = 8;
 
 // Variables for calculating distance
 long duration;
